@@ -37,7 +37,6 @@ move_p2(movements)
 
 '''
 aoc2.txt
-
 forward 1
 forward 8
 down 9
