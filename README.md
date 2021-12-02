@@ -1,4 +1,4 @@
-# Advent of Code
+# Advent of Code 🎅🎄
 25 days of Advent of Code puzzles.
 
 ## Table of contents
