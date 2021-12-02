@@ -1,4 +1,4 @@
-#Sonar Sweep
+#--- Day 1: Sonar Sweep ---#
 
 def count_p1(l):
     count=0
